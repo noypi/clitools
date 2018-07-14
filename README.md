@@ -3,7 +3,7 @@
 Download create-noypi-app
 ```sh
 
-    > go get -u github.com/noypi/clitools/create-noypi-app/...
+    > go get -u github.com/noypi/clitools/...
 
 ```
 
