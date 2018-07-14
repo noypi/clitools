@@ -1,1 +1,26 @@
-# clitools
+# create-noypi-app
+
+Download create-noypi-app
+```sh
+
+    > go get -u github.com/clitools/create-noypi-app/...
+
+```
+
+Install
+```sh
+
+    > go install -v github.com/clitools/create-noypi-app
+
+```
+
+Create new project
+```sh
+
+    > cd $GOPATH/src
+
+    > create-noypi-app  -v  -basedir=./github.com/mygit/myproject -pkg=github.com/mygit/myproject
+
+    > cd github.com/mygit/myproject
+
+```
