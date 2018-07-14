@@ -3,14 +3,14 @@
 Download create-noypi-app
 ```sh
 
-    > go get -u github.com/clitools/create-noypi-app/...
+    > go get -u github.com/noypi/clitools/create-noypi-app/...
 
 ```
 
 Install
 ```sh
 
-    > go install -v github.com/clitools/create-noypi-app
+    > go install -v github.com/noypi/clitools/create-noypi-app
 
 ```
 
