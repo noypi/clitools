@@ -12,6 +12,7 @@ Install
 
     > go install -v github.com/noypi/clitools/create-noypi-app
 
+    > go build -v -o $GOBIN/create-noypi-app github.com/noypi/clitools/create-noypi-app
 ```
 
 Create new project
